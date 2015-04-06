@@ -1,0 +1,100 @@
+[2015-04-06 12:20:29] string(119) "SELECT date, numrif, numindig, id_insert, isload FROM all8registercumprog1415 ORDER BY DATE ASC, isload DESC LIMIT 0, 1"
+
+[2015-04-06 12:20:29] string(119) "SELECT date, numrif, numindig, id_insert, isload FROM all8registercumprog1415 ORDER BY DATE ASC, isload DESC LIMIT 1, 1"
+
+[2015-04-06 12:20:29] string(119) "SELECT date, numrif, numindig, id_insert, isload FROM all8registercumprog1415 ORDER BY DATE ASC, isload DESC LIMIT 2, 1"
+
+[2015-04-06 12:20:29] string(119) "SELECT date, numrif, numindig, id_insert, isload FROM all8registercumprog1415 ORDER BY DATE ASC, isload DESC LIMIT 3, 1"
+
+[2015-04-06 12:20:29] string(119) "SELECT date, numrif, numindig, id_insert, isload FROM all8registercumprog1415 ORDER BY DATE ASC, isload DESC LIMIT 4, 1"
+
+[2015-04-06 12:20:29] string(119) "SELECT date, numrif, numindig, id_insert, isload FROM all8registercumprog1415 ORDER BY DATE ASC, isload DESC LIMIT 5, 1"
+
+[2015-04-06 12:20:29] string(119) "SELECT date, numrif, numindig, id_insert, isload FROM all8registercumprog1415 ORDER BY DATE ASC, isload DESC LIMIT 6, 1"
+
+[2015-04-06 12:20:29] string(119) "SELECT date, numrif, numindig, id_insert, isload FROM all8registercumprog1415 ORDER BY DATE ASC, isload DESC LIMIT 7, 1"
+
+[2015-04-06 12:20:29] string(119) "SELECT date, numrif, numindig, id_insert, isload FROM all8registercumprog1415 ORDER BY DATE ASC, isload DESC LIMIT 8, 1"
+
+[2015-04-06 12:20:29] string(119) "SELECT date, numrif, numindig, id_insert, isload FROM all8registercumprog1415 ORDER BY DATE ASC, isload DESC LIMIT 9, 1"
+
+[2015-04-06 12:20:29] string(120) "SELECT date, numrif, numindig, id_insert, isload FROM all8registercumprog1415 ORDER BY DATE ASC, isload DESC LIMIT 10, 1"
+
+[2015-04-06 12:20:30] string(120) "SELECT date, numrif, numindig, id_insert, isload FROM all8registercumprog1415 ORDER BY DATE ASC, isload DESC LIMIT 11, 1"
+
+[2015-04-06 12:20:30] string(120) "SELECT date, numrif, numindig, id_insert, isload FROM all8registercumprog1415 ORDER BY DATE ASC, isload DESC LIMIT 12, 1"
+
+[2015-04-06 12:20:30] string(120) "SELECT date, numrif, numindig, id_insert, isload FROM all8registercumprog1415 ORDER BY DATE ASC, isload DESC LIMIT 13, 1"
+
+[2015-04-06 12:20:30] string(120) "SELECT date, numrif, numindig, id_insert, isload FROM all8registercumprog1415 ORDER BY DATE ASC, isload DESC LIMIT 14, 1"
+
+[2015-04-06 12:20:30] string(120) "SELECT date, numrif, numindig, id_insert, isload FROM all8registercumprog1415 ORDER BY DATE ASC, isload DESC LIMIT 15, 1"
+
+[2015-04-06 12:20:30] string(120) "SELECT date, numrif, numindig, id_insert, isload FROM all8registercumprog1415 ORDER BY DATE ASC, isload DESC LIMIT 16, 1"
+
+[2015-04-06 12:20:30] string(120) "SELECT date, numrif, numindig, id_insert, isload FROM all8registercumprog1415 ORDER BY DATE ASC, isload DESC LIMIT 17, 1"
+
+[2015-04-06 12:20:30] string(120) "SELECT date, numrif, numindig, id_insert, isload FROM all8registercumprog1415 ORDER BY DATE ASC, isload DESC LIMIT 18, 1"
+
+[2015-04-06 12:20:30] string(120) "SELECT date, numrif, numindig, id_insert, isload FROM all8registercumprog1415 ORDER BY DATE ASC, isload DESC LIMIT 19, 1"
+
+[2015-04-06 12:20:30] string(120) "SELECT date, numrif, numindig, id_insert, isload FROM all8registercumprog1415 ORDER BY DATE ASC, isload DESC LIMIT 20, 1"
+
+[2015-04-06 12:20:30] string(120) "SELECT date, numrif, numindig, id_insert, isload FROM all8registercumprog1415 ORDER BY DATE ASC, isload DESC LIMIT 21, 1"
+
+[2015-04-06 12:20:30] string(120) "SELECT date, numrif, numindig, id_insert, isload FROM all8registercumprog1415 ORDER BY DATE ASC, isload DESC LIMIT 22, 1"
+
+[2015-04-06 12:20:30] string(120) "SELECT date, numrif, numindig, id_insert, isload FROM all8registercumprog1415 ORDER BY DATE ASC, isload DESC LIMIT 23, 1"
+
+[2015-04-06 12:20:30] string(120) "SELECT date, numrif, numindig, id_insert, isload FROM all8registercumprog1415 ORDER BY DATE ASC, isload DESC LIMIT 24, 1"
+
+[2015-04-06 12:20:51] string(119) "SELECT date, numrif, numindig, id_insert, isload FROM all8registercumprog1415 ORDER BY DATE ASC, isload DESC LIMIT 0, 1"
+
+[2015-04-06 12:20:51] string(119) "SELECT date, numrif, numindig, id_insert, isload FROM all8registercumprog1415 ORDER BY DATE ASC, isload DESC LIMIT 1, 1"
+
+[2015-04-06 12:20:51] string(119) "SELECT date, numrif, numindig, id_insert, isload FROM all8registercumprog1415 ORDER BY DATE ASC, isload DESC LIMIT 2, 1"
+
+[2015-04-06 12:20:51] string(119) "SELECT date, numrif, numindig, id_insert, isload FROM all8registercumprog1415 ORDER BY DATE ASC, isload DESC LIMIT 3, 1"
+
+[2015-04-06 12:20:51] string(119) "SELECT date, numrif, numindig, id_insert, isload FROM all8registercumprog1415 ORDER BY DATE ASC, isload DESC LIMIT 4, 1"
+
+[2015-04-06 12:20:51] string(119) "SELECT date, numrif, numindig, id_insert, isload FROM all8registercumprog1415 ORDER BY DATE ASC, isload DESC LIMIT 5, 1"
+
+[2015-04-06 12:20:51] string(119) "SELECT date, numrif, numindig, id_insert, isload FROM all8registercumprog1415 ORDER BY DATE ASC, isload DESC LIMIT 6, 1"
+
+[2015-04-06 12:20:51] string(119) "SELECT date, numrif, numindig, id_insert, isload FROM all8registercumprog1415 ORDER BY DATE ASC, isload DESC LIMIT 7, 1"
+
+[2015-04-06 12:20:51] string(119) "SELECT date, numrif, numindig, id_insert, isload FROM all8registercumprog1415 ORDER BY DATE ASC, isload DESC LIMIT 8, 1"
+
+[2015-04-06 12:20:51] string(119) "SELECT date, numrif, numindig, id_insert, isload FROM all8registercumprog1415 ORDER BY DATE ASC, isload DESC LIMIT 9, 1"
+
+[2015-04-06 12:20:51] string(120) "SELECT date, numrif, numindig, id_insert, isload FROM all8registercumprog1415 ORDER BY DATE ASC, isload DESC LIMIT 10, 1"
+
+[2015-04-06 12:20:51] string(120) "SELECT date, numrif, numindig, id_insert, isload FROM all8registercumprog1415 ORDER BY DATE ASC, isload DESC LIMIT 11, 1"
+
+[2015-04-06 12:20:51] string(120) "SELECT date, numrif, numindig, id_insert, isload FROM all8registercumprog1415 ORDER BY DATE ASC, isload DESC LIMIT 12, 1"
+
+[2015-04-06 12:20:51] string(120) "SELECT date, numrif, numindig, id_insert, isload FROM all8registercumprog1415 ORDER BY DATE ASC, isload DESC LIMIT 13, 1"
+
+[2015-04-06 12:20:51] string(120) "SELECT date, numrif, numindig, id_insert, isload FROM all8registercumprog1415 ORDER BY DATE ASC, isload DESC LIMIT 14, 1"
+
+[2015-04-06 12:20:51] string(120) "SELECT date, numrif, numindig, id_insert, isload FROM all8registercumprog1415 ORDER BY DATE ASC, isload DESC LIMIT 15, 1"
+
+[2015-04-06 12:20:51] string(120) "SELECT date, numrif, numindig, id_insert, isload FROM all8registercumprog1415 ORDER BY DATE ASC, isload DESC LIMIT 16, 1"
+
+[2015-04-06 12:20:51] string(120) "SELECT date, numrif, numindig, id_insert, isload FROM all8registercumprog1415 ORDER BY DATE ASC, isload DESC LIMIT 17, 1"
+
+[2015-04-06 12:20:51] string(120) "SELECT date, numrif, numindig, id_insert, isload FROM all8registercumprog1415 ORDER BY DATE ASC, isload DESC LIMIT 18, 1"
+
+[2015-04-06 12:20:51] string(120) "SELECT date, numrif, numindig, id_insert, isload FROM all8registercumprog1415 ORDER BY DATE ASC, isload DESC LIMIT 19, 1"
+
+[2015-04-06 12:20:51] string(120) "SELECT date, numrif, numindig, id_insert, isload FROM all8registercumprog1415 ORDER BY DATE ASC, isload DESC LIMIT 20, 1"
+
+[2015-04-06 12:20:51] string(120) "SELECT date, numrif, numindig, id_insert, isload FROM all8registercumprog1415 ORDER BY DATE ASC, isload DESC LIMIT 21, 1"
+
+[2015-04-06 12:20:51] string(120) "SELECT date, numrif, numindig, id_insert, isload FROM all8registercumprog1415 ORDER BY DATE ASC, isload DESC LIMIT 22, 1"
+
+[2015-04-06 12:20:51] string(120) "SELECT date, numrif, numindig, id_insert, isload FROM all8registercumprog1415 ORDER BY DATE ASC, isload DESC LIMIT 23, 1"
+
+[2015-04-06 12:20:51] string(120) "SELECT date, numrif, numindig, id_insert, isload FROM all8registercumprog1415 ORDER BY DATE ASC, isload DESC LIMIT 24, 1"
+
