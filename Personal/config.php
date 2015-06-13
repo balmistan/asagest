@@ -5,8 +5,8 @@ $hostname = 'localhost'; //se settato ha una priorità superiore rispetto all'ip
 $ip = '127.0.0.1';
 $port = '3306';
 $user = 'root'; 
-$dbname = 'dbname';              
-$password = 'dbpassword';
+$dbname = 'servizioasa2';              
+$password = 'not4resale';
 
 $usedebug = false;  
 

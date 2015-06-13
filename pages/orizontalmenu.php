@@ -45,7 +45,7 @@ function getOrrMenu() {         //crea il codice html del menù
         $menu->addItem(array('Text' => 'Guida', 'Link' => 'manuale/pagine/index', 'Class' => 'manuale/pagine', 'Index' => '6.3'));
         $menu->addItem(array('Text' => 'Backup', 'Link' => 'backup', 'Class' => 'backup', 'Index' => '6.4'));
    
-        $menu->addItem(array('Text' => 'Logout', 'Link' => 'index?logout=1', 'Class' => 'logout', 'Index' => '7'));
+        $menu->addItem(array('Text' => 'Logout', 'Link' => 'logout', 'Class' => 'logout', 'Index' => '7'));
         
         
         
@@ -77,7 +77,7 @@ function getOrrMenu() {         //crea il codice html del menù
         $menu->addItem(array('Text' => 'Certif. scaduti', 'Link' => 'expiredisee', 'Class' => 'expiredisee', 'Index' => '6.2'));
         $menu->addItem(array('Text' => 'Guida', 'Link' => 'manuale/pagine/index', 'Class' => 'manuale', 'Index' => '6.3'));
         
-        $menu->addItem(array('Text' => 'Logout', 'Link' => 'index?logout=1', 'Class' => 'logout', 'Index' => '7'));
+        $menu->addItem(array('Text' => 'Logout', 'Link' => 'logout', 'Class' => 'logout', 'Index' => '7'));
         
         
     }

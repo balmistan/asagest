@@ -482,3 +482,87 @@
 
 [2015-04-06 12:20:51] string(56) "SELECT id_product FROM product where show_in_reg = 'on';"
 
+[2015-06-13 14:04:06] string(56) "SELECT groupName FROM groupusers WHERE username = 'cri';"
+
+[2015-06-13 14:04:06] string(56) "SELECT groupName FROM groupusers WHERE username = 'cri';"
+
+[2015-06-13 14:04:06] string(90) "SELECT lastDate, ip_address FROM sessions where userId = 1 ORDER BY lastDate DESC LIMIT 2;"
+
+[2015-06-13 14:04:06] string(90) "SELECT lastDate, ip_address FROM sessions where userId = 1 ORDER BY lastDate DESC LIMIT 2;"
+
+[2015-06-13 14:04:06] string(56) "SELECT groupName FROM groupusers WHERE username = 'cri';"
+
+[2015-06-13 14:04:06] string(56) "SELECT groupName FROM groupusers WHERE username = 'cri';"
+
+[2015-06-13 14:05:25] string(56) "SELECT groupName FROM groupusers WHERE username = 'cri';"
+
+[2015-06-13 14:05:25] string(56) "SELECT groupName FROM groupusers WHERE username = 'cri';"
+
+[2015-06-13 14:05:25] string(90) "SELECT lastDate, ip_address FROM sessions where userId = 1 ORDER BY lastDate DESC LIMIT 2;"
+
+[2015-06-13 14:05:25] string(90) "SELECT lastDate, ip_address FROM sessions where userId = 1 ORDER BY lastDate DESC LIMIT 2;"
+
+[2015-06-13 14:05:25] string(56) "SELECT groupName FROM groupusers WHERE username = 'cri';"
+
+[2015-06-13 14:05:25] string(56) "SELECT groupName FROM groupusers WHERE username = 'cri';"
+
+[2015-06-13 14:05:36] string(56) "SELECT groupName FROM groupusers WHERE username = 'cri';"
+
+[2015-06-13 14:05:36] string(56) "SELECT groupName FROM groupusers WHERE username = 'cri';"
+
+[2015-06-13 14:05:36] string(90) "SELECT lastDate, ip_address FROM sessions where userId = 1 ORDER BY lastDate DESC LIMIT 2;"
+
+[2015-06-13 14:05:36] string(90) "SELECT lastDate, ip_address FROM sessions where userId = 1 ORDER BY lastDate DESC LIMIT 2;"
+
+[2015-06-13 14:05:36] string(56) "SELECT groupName FROM groupusers WHERE username = 'cri';"
+
+[2015-06-13 14:05:36] string(56) "SELECT groupName FROM groupusers WHERE username = 'cri';"
+
+[2015-06-13 14:06:45] string(56) "SELECT groupName FROM groupusers WHERE username = 'cri';"
+
+[2015-06-13 14:06:45] string(56) "SELECT groupName FROM groupusers WHERE username = 'cri';"
+
+[2015-06-13 14:06:45] string(90) "SELECT lastDate, ip_address FROM sessions where userId = 1 ORDER BY lastDate DESC LIMIT 2;"
+
+[2015-06-13 14:06:45] string(90) "SELECT lastDate, ip_address FROM sessions where userId = 1 ORDER BY lastDate DESC LIMIT 2;"
+
+[2015-06-13 14:06:45] string(56) "SELECT groupName FROM groupusers WHERE username = 'cri';"
+
+[2015-06-13 14:06:45] string(56) "SELECT groupName FROM groupusers WHERE username = 'cri';"
+
+[2015-06-13 14:08:14] string(56) "SELECT groupName FROM groupusers WHERE username = 'cri';"
+
+[2015-06-13 14:08:14] string(56) "SELECT groupName FROM groupusers WHERE username = 'cri';"
+
+[2015-06-13 14:08:14] string(90) "SELECT lastDate, ip_address FROM sessions where userId = 1 ORDER BY lastDate DESC LIMIT 2;"
+
+[2015-06-13 14:08:14] string(90) "SELECT lastDate, ip_address FROM sessions where userId = 1 ORDER BY lastDate DESC LIMIT 2;"
+
+[2015-06-13 14:08:15] string(56) "SELECT groupName FROM groupusers WHERE username = 'cri';"
+
+[2015-06-13 14:08:15] string(56) "SELECT groupName FROM groupusers WHERE username = 'cri';"
+
+[2015-06-13 14:08:18] string(56) "SELECT groupName FROM groupusers WHERE username = 'cri';"
+
+[2015-06-13 14:08:18] string(56) "SELECT groupName FROM groupusers WHERE username = 'cri';"
+
+[2015-06-13 14:08:18] string(90) "SELECT lastDate, ip_address FROM sessions where userId = 1 ORDER BY lastDate DESC LIMIT 2;"
+
+[2015-06-13 14:08:18] string(90) "SELECT lastDate, ip_address FROM sessions where userId = 1 ORDER BY lastDate DESC LIMIT 2;"
+
+[2015-06-13 14:08:18] string(56) "SELECT groupName FROM groupusers WHERE username = 'cri';"
+
+[2015-06-13 14:08:18] string(56) "SELECT groupName FROM groupusers WHERE username = 'cri';"
+
+[2015-06-13 14:10:11] string(56) "SELECT groupName FROM groupusers WHERE username = 'cri';"
+
+[2015-06-13 14:10:11] string(56) "SELECT groupName FROM groupusers WHERE username = 'cri';"
+
+[2015-06-13 14:10:11] string(90) "SELECT lastDate, ip_address FROM sessions where userId = 1 ORDER BY lastDate DESC LIMIT 2;"
+
+[2015-06-13 14:10:11] string(90) "SELECT lastDate, ip_address FROM sessions where userId = 1 ORDER BY lastDate DESC LIMIT 2;"
+
+[2015-06-13 14:10:11] string(56) "SELECT groupName FROM groupusers WHERE username = 'cri';"
+
+[2015-06-13 14:10:11] string(56) "SELECT groupName FROM groupusers WHERE username = 'cri';"
+
