@@ -122,7 +122,7 @@ class db {
         $this->dbHost = $hostname;
         $this->dbName = $dbname;
 
-        $this->Logger = new logger("../elog/dbclass.log", 1);
+        $this->Logger = new logger("../elog/dbclass.log", 0);
         $this->LoggerDebug = new logger("../elog/debug_dbclass.log", 1);
 
         $this->test = mt_rand(1, 10000000);
