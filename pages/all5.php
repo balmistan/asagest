@@ -51,7 +51,7 @@ $arr_umis = $product->getProductUMis();
   print_r($arr_products);
   echo "<br /><br />";
   print_r($arr_umis);
-*/
+ */
 
 $total_num_register = count($arr_products);    //Numero totale di registri  ($arr_products è un array di array. Ogni array indica i prodotti per un singolo registro)
 //echo $total_num_register;
@@ -76,16 +76,17 @@ if (1) {
     for ($pn = 1; $pn <= $pagen; $pn++) { //leggo i risultati per le varie pagine
         $session->setSessionVar("pagen", $pn);         //IMPORTANTE !  Dopo aver settato la pagina visualizzata, aggiorno la variabile di sessione in modo che la classe allegati legga i dati per la pagina settata.
         $arr_view = $alleg->getRowsView();
-        $excel->addPageContent($arr_view, $pn-1); //L' array parte sempre da 0, solo che in sessione setto 1 per avere la prima pagina (quella con indice 0)
-        
-       // print_r($arr_view[0]);
-      //  echo "<br /><br />"; 
+        $excel->addPageContent($arr_view, $pn - 1); //L' array parte sempre da 0, solo che in sessione setto 1 per avere la prima pagina (quella con indice 0)
+        // print_r($arr_view[0]);
+        //  echo "<br /><br />"; 
     }
-
-    $excel->Output("Allegato_5.xls");
+    if (isset($_GET["dwn"]))
+        $excel->Output("Allegato_5.xls");
+    else {
+        $excel->Save("../Personal/Allegati/Allegato_5.xlsx");
+    }
 }
 
 
 //$excel->Output("../Personal/Documents/Allegato_5.xlsx");
-
 ?>

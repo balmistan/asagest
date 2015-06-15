@@ -118,6 +118,11 @@ class excelconvert {
         $objWriter->save('php://output');
     }
 
+    public function Save($fileout) {
+        $objWriter = PHPExcel_IOFactory::createWriter($this->objPHPExcel, 'Excel2007');
+        $objWriter->save($fileout);
+    }
+
 }
 
 //close class

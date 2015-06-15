@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.5, created on 2015-04-06 12:20:23
+<?php /* Smarty version Smarty-3.1.5, created on 2015-06-15 16:12:08
          compiled from "tpl/home.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:45701971654de0763ad1b27-20533024%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'f99195648e6e1098f8d12653e724370662324a83' => 
     array (
       0 => 'tpl/home.tpl',
-      1 => 1428315246,
+      1 => 1434377453,
       2 => 'file',
     ),
   ),
@@ -74,7 +74,7 @@ search.png" class="icons" alt="Cerca scheda" title="Cerca scheda" /></a></li>
 add.png" class="icons" alt="Aggiungi scheda" title="Aggiungi scheda" /></a></li>       
                <!-- <li><a href="manuale/pagine/index"><img src="<?php echo $_smarty_tpl->tpl_vars['path_icons']->value;?>
 guide.png" class="icons" alt="manuale" title="manuale" /></a></li> -->
-           <li><a href="index?logout=1"><img src="<?php echo $_smarty_tpl->tpl_vars['path_icons']->value;?>
+           <li><a href="logout"><img src="<?php echo $_smarty_tpl->tpl_vars['path_icons']->value;?>
 logout.png" class="icons" alt="logout" title="logout" /></a></li>
             </ul>
         </div>

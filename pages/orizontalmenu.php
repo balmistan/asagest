@@ -15,7 +15,7 @@ function getOrrMenu() {         //crea il codice html del menù
         
         $menu->addItem(array('Text' => 'Agea', 'Link' => '#', 'Class' => 'agea', 'Index' => '2'));
         $menu->addItem(array('Text' => 'Carico', 'Link' => 'load', 'Class' => 'load', 'Index' => '2.1'));
-        $menu->addItem(array('Text' => 'Allegato 5', 'Link' => 'all5', 'Class' => 'allegati', 'Index' => '2.2'));
+        $menu->addItem(array('Text' => 'Allegato 5', 'Link' => 'all5?dwn=1', 'Class' => 'allegati', 'Index' => '2.2'));
         $menu->addItem(array('Text' => 'Allegato 6', 'Link' => 'all6', 'Class' => 'allegati', 'Index' => '2.3'));
         $menu->addItem(array('Text' => 'Report', 'Link' => 'report', 'Class' => 'report', 'Index' => '2.4'));
         
@@ -58,7 +58,7 @@ function getOrrMenu() {         //crea il codice html del menù
         
         $menu->addItem(array('Text' => 'Agea', 'Link' => '#', 'Class' => 'agea', 'Index' => '2'));
         $menu->addItem(array('Text' => 'Carico', 'Link' => 'load', 'Class' => 'load', 'Index' => '2.1'));
-        $menu->addItem(array('Text' => 'Allegato 5', 'Link' => 'all5', 'Class' => 'allegati', 'Index' => '2.2'));
+        $menu->addItem(array('Text' => 'Allegato 5', 'Link' => 'all5?dwn=1', 'Class' => 'allegati', 'Index' => '2.2'));
         $menu->addItem(array('Text' => 'Allegato 6', 'Link' => 'all6', 'Class' => 'allegati', 'Index' => '2.3'));
         $menu->addItem(array('Text' => 'Report', 'Link' => 'report', 'Class' => 'report', 'Index' => '2.4'));
         $menu->addItem(array('Text' => 'Cerca scheda', 'Link' => 'searchfamily', 'Class' => 'search', 'Index' => '3'));

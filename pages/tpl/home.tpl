@@ -22,7 +22,7 @@
                 <li><a href="searchfamily"><img src="{$path_icons}search.png" class="icons" alt="Cerca scheda" title="Cerca scheda" /></a></li> 
                 <li><a href="addmodfamily"><img src="{$path_icons}add.png" class="icons" alt="Aggiungi scheda" title="Aggiungi scheda" /></a></li>       
                <!-- <li><a href="manuale/pagine/index"><img src="{$path_icons}guide.png" class="icons" alt="manuale" title="manuale" /></a></li> -->
-           <li><a href="index?logout=1"><img src="{$path_icons}logout.png" class="icons" alt="logout" title="logout" /></a></li>
+           <li><a href="logout"><img src="{$path_icons}logout.png" class="icons" alt="logout" title="logout" /></a></li>
             </ul>
         </div>
             <div id="bottom_pos">E' possibile accedere ad una scheda premendo e lasciando il tasto CTRL e digitando subido dopo in modo rapido il numero della scheda da cercare. L' operazione può essere effettuata da qualsiasi pagina.</div>
