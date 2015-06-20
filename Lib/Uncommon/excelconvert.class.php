@@ -120,6 +120,7 @@ class excelconvert {
 
     public function Save($fileout) {
         $objWriter = PHPExcel_IOFactory::createWriter($this->objPHPExcel, 'Excel2007');
+        ob_end_clean();
         $objWriter->save($fileout);
     }
 

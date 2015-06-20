@@ -83,7 +83,7 @@ if (1) {
     if (isset($_GET["dwn"]))
         $excel->Output("Allegato_5.xls");
     else {
-        $excel->Save("../Personal/Allegati/Allegato_5.xlsx");
+        $excel->Save("../Personal/Allegato_5.xlsx");
     }
 }
 
