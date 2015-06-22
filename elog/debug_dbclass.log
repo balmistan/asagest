@@ -7794,3 +7794,423 @@
 
 [2015-06-22 20:32:50] string(56) "SELECT id_product FROM product where show_in_reg = 'on';"
 
+[2015-06-22 20:41:50] string(56) "SELECT groupName FROM groupusers WHERE username = 'cri';"
+
+[2015-06-22 20:41:50] string(56) "SELECT groupName FROM groupusers WHERE username = 'cri';"
+
+[2015-06-22 20:41:50] string(94) "SELECT id_product, name_product FROM product where show_in_reg = 'on' ORDER BY position_in_a8;"
+
+[2015-06-22 20:41:50] string(94) "SELECT id_product, name_product FROM product where show_in_reg = 'on' ORDER BY position_in_a8;"
+
+[2015-06-22 20:41:50] string(45) "SELECT id_product, measureunity FROM product;"
+
+[2015-06-22 20:41:50] string(45) "SELECT id_product, measureunity FROM product;"
+
+[2015-06-22 20:41:50] string(43) "SELECT numrif FROM all8registercumprog1415;"
+
+[2015-06-22 20:41:50] string(43) "SELECT numrif FROM all8registercumprog1415;"
+
+[2015-06-22 20:41:50] string(45) "SELECT id_product, measureunity FROM product;"
+
+[2015-06-22 20:41:50] string(45) "SELECT id_product, measureunity FROM product;"
+
+[2015-06-22 20:41:51] string(57) "SELECT * FROM all8productcumprog1415 where id_insert = 1;"
+
+[2015-06-22 20:41:51] string(57) "SELECT * FROM all8productcumprog1415 where id_insert = 1;"
+
+[2015-06-22 20:41:51] string(56) "SELECT id_product FROM product where show_in_reg = 'on';"
+
+[2015-06-22 20:41:51] string(56) "SELECT id_product FROM product where show_in_reg = 'on';"
+
+[2015-06-22 20:41:51] string(57) "SELECT * FROM all8productcumprog1415 where id_insert = 2;"
+
+[2015-06-22 20:41:51] string(57) "SELECT * FROM all8productcumprog1415 where id_insert = 2;"
+
+[2015-06-22 20:41:51] string(56) "SELECT id_product FROM product where show_in_reg = 'on';"
+
+[2015-06-22 20:41:51] string(56) "SELECT id_product FROM product where show_in_reg = 'on';"
+
+[2015-06-22 20:41:51] string(57) "SELECT * FROM all8productcumprog1415 where id_insert = 3;"
+
+[2015-06-22 20:41:51] string(57) "SELECT * FROM all8productcumprog1415 where id_insert = 3;"
+
+[2015-06-22 20:41:51] string(56) "SELECT id_product FROM product where show_in_reg = 'on';"
+
+[2015-06-22 20:41:51] string(56) "SELECT id_product FROM product where show_in_reg = 'on';"
+
+[2015-06-22 20:41:51] string(57) "SELECT * FROM all8productcumprog1415 where id_insert = 4;"
+
+[2015-06-22 20:41:51] string(57) "SELECT * FROM all8productcumprog1415 where id_insert = 4;"
+
+[2015-06-22 20:41:51] string(56) "SELECT id_product FROM product where show_in_reg = 'on';"
+
+[2015-06-22 20:41:51] string(56) "SELECT id_product FROM product where show_in_reg = 'on';"
+
+[2015-06-22 20:41:51] string(57) "SELECT * FROM all8productcumprog1415 where id_insert = 5;"
+
+[2015-06-22 20:41:51] string(57) "SELECT * FROM all8productcumprog1415 where id_insert = 5;"
+
+[2015-06-22 20:41:51] string(56) "SELECT id_product FROM product where show_in_reg = 'on';"
+
+[2015-06-22 20:41:51] string(56) "SELECT id_product FROM product where show_in_reg = 'on';"
+
+[2015-06-22 20:41:51] string(57) "SELECT * FROM all8productcumprog1415 where id_insert = 6;"
+
+[2015-06-22 20:41:51] string(57) "SELECT * FROM all8productcumprog1415 where id_insert = 6;"
+
+[2015-06-22 20:41:51] string(56) "SELECT id_product FROM product where show_in_reg = 'on';"
+
+[2015-06-22 20:41:51] string(56) "SELECT id_product FROM product where show_in_reg = 'on';"
+
+[2015-06-22 20:41:51] string(57) "SELECT * FROM all8productcumprog1415 where id_insert = 7;"
+
+[2015-06-22 20:41:51] string(57) "SELECT * FROM all8productcumprog1415 where id_insert = 7;"
+
+[2015-06-22 20:41:51] string(56) "SELECT id_product FROM product where show_in_reg = 'on';"
+
+[2015-06-22 20:41:51] string(56) "SELECT id_product FROM product where show_in_reg = 'on';"
+
+[2015-06-22 20:41:51] string(57) "SELECT * FROM all8productcumprog1415 where id_insert = 8;"
+
+[2015-06-22 20:41:51] string(57) "SELECT * FROM all8productcumprog1415 where id_insert = 8;"
+
+[2015-06-22 20:41:51] string(56) "SELECT id_product FROM product where show_in_reg = 'on';"
+
+[2015-06-22 20:41:51] string(56) "SELECT id_product FROM product where show_in_reg = 'on';"
+
+[2015-06-22 20:41:51] string(58) "SELECT * FROM all8productcumprog1415 where id_insert = 10;"
+
+[2015-06-22 20:41:51] string(58) "SELECT * FROM all8productcumprog1415 where id_insert = 10;"
+
+[2015-06-22 20:41:51] string(56) "SELECT id_product FROM product where show_in_reg = 'on';"
+
+[2015-06-22 20:41:51] string(56) "SELECT id_product FROM product where show_in_reg = 'on';"
+
+[2015-06-22 20:41:51] string(57) "SELECT * FROM all8productcumprog1415 where id_insert = 9;"
+
+[2015-06-22 20:41:51] string(57) "SELECT * FROM all8productcumprog1415 where id_insert = 9;"
+
+[2015-06-22 20:41:51] string(56) "SELECT id_product FROM product where show_in_reg = 'on';"
+
+[2015-06-22 20:41:51] string(56) "SELECT id_product FROM product where show_in_reg = 'on';"
+
+[2015-06-22 20:41:51] string(58) "SELECT * FROM all8productcumprog1415 where id_insert = 11;"
+
+[2015-06-22 20:41:51] string(58) "SELECT * FROM all8productcumprog1415 where id_insert = 11;"
+
+[2015-06-22 20:41:51] string(56) "SELECT id_product FROM product where show_in_reg = 'on';"
+
+[2015-06-22 20:41:51] string(56) "SELECT id_product FROM product where show_in_reg = 'on';"
+
+[2015-06-22 20:41:51] string(58) "SELECT * FROM all8productcumprog1415 where id_insert = 12;"
+
+[2015-06-22 20:41:51] string(58) "SELECT * FROM all8productcumprog1415 where id_insert = 12;"
+
+[2015-06-22 20:41:51] string(56) "SELECT id_product FROM product where show_in_reg = 'on';"
+
+[2015-06-22 20:41:51] string(56) "SELECT id_product FROM product where show_in_reg = 'on';"
+
+[2015-06-22 20:41:51] string(58) "SELECT * FROM all8productcumprog1415 where id_insert = 13;"
+
+[2015-06-22 20:41:51] string(58) "SELECT * FROM all8productcumprog1415 where id_insert = 13;"
+
+[2015-06-22 20:41:51] string(56) "SELECT id_product FROM product where show_in_reg = 'on';"
+
+[2015-06-22 20:41:51] string(56) "SELECT id_product FROM product where show_in_reg = 'on';"
+
+[2015-06-22 20:41:51] string(58) "SELECT * FROM all8productcumprog1415 where id_insert = 14;"
+
+[2015-06-22 20:41:51] string(58) "SELECT * FROM all8productcumprog1415 where id_insert = 14;"
+
+[2015-06-22 20:41:51] string(56) "SELECT id_product FROM product where show_in_reg = 'on';"
+
+[2015-06-22 20:41:51] string(56) "SELECT id_product FROM product where show_in_reg = 'on';"
+
+[2015-06-22 20:41:51] string(58) "SELECT * FROM all8productcumprog1415 where id_insert = 15;"
+
+[2015-06-22 20:41:51] string(58) "SELECT * FROM all8productcumprog1415 where id_insert = 15;"
+
+[2015-06-22 20:41:51] string(56) "SELECT id_product FROM product where show_in_reg = 'on';"
+
+[2015-06-22 20:41:51] string(56) "SELECT id_product FROM product where show_in_reg = 'on';"
+
+[2015-06-22 20:41:51] string(58) "SELECT * FROM all8productcumprog1415 where id_insert = 16;"
+
+[2015-06-22 20:41:51] string(58) "SELECT * FROM all8productcumprog1415 where id_insert = 16;"
+
+[2015-06-22 20:41:51] string(56) "SELECT id_product FROM product where show_in_reg = 'on';"
+
+[2015-06-22 20:41:51] string(56) "SELECT id_product FROM product where show_in_reg = 'on';"
+
+[2015-06-22 20:41:51] string(58) "SELECT * FROM all8productcumprog1415 where id_insert = 17;"
+
+[2015-06-22 20:41:51] string(58) "SELECT * FROM all8productcumprog1415 where id_insert = 17;"
+
+[2015-06-22 20:41:51] string(56) "SELECT id_product FROM product where show_in_reg = 'on';"
+
+[2015-06-22 20:41:51] string(56) "SELECT id_product FROM product where show_in_reg = 'on';"
+
+[2015-06-22 20:41:51] string(58) "SELECT * FROM all8productcumprog1415 where id_insert = 18;"
+
+[2015-06-22 20:41:51] string(58) "SELECT * FROM all8productcumprog1415 where id_insert = 18;"
+
+[2015-06-22 20:41:51] string(56) "SELECT id_product FROM product where show_in_reg = 'on';"
+
+[2015-06-22 20:41:51] string(56) "SELECT id_product FROM product where show_in_reg = 'on';"
+
+[2015-06-22 20:41:51] string(58) "SELECT * FROM all8productcumprog1415 where id_insert = 19;"
+
+[2015-06-22 20:41:51] string(58) "SELECT * FROM all8productcumprog1415 where id_insert = 19;"
+
+[2015-06-22 20:41:51] string(56) "SELECT id_product FROM product where show_in_reg = 'on';"
+
+[2015-06-22 20:41:51] string(56) "SELECT id_product FROM product where show_in_reg = 'on';"
+
+[2015-06-22 20:41:51] string(58) "SELECT * FROM all8productcumprog1415 where id_insert = 20;"
+
+[2015-06-22 20:41:51] string(58) "SELECT * FROM all8productcumprog1415 where id_insert = 20;"
+
+[2015-06-22 20:41:51] string(56) "SELECT id_product FROM product where show_in_reg = 'on';"
+
+[2015-06-22 20:41:51] string(56) "SELECT id_product FROM product where show_in_reg = 'on';"
+
+[2015-06-22 20:41:51] string(58) "SELECT * FROM all8productcumprog1415 where id_insert = 21;"
+
+[2015-06-22 20:41:51] string(58) "SELECT * FROM all8productcumprog1415 where id_insert = 21;"
+
+[2015-06-22 20:41:51] string(56) "SELECT id_product FROM product where show_in_reg = 'on';"
+
+[2015-06-22 20:41:51] string(56) "SELECT id_product FROM product where show_in_reg = 'on';"
+
+[2015-06-22 20:41:51] string(58) "SELECT * FROM all8productcumprog1415 where id_insert = 22;"
+
+[2015-06-22 20:41:51] string(58) "SELECT * FROM all8productcumprog1415 where id_insert = 22;"
+
+[2015-06-22 20:41:51] string(56) "SELECT id_product FROM product where show_in_reg = 'on';"
+
+[2015-06-22 20:41:51] string(56) "SELECT id_product FROM product where show_in_reg = 'on';"
+
+[2015-06-22 20:41:51] string(58) "SELECT * FROM all8productcumprog1415 where id_insert = 23;"
+
+[2015-06-22 20:41:51] string(58) "SELECT * FROM all8productcumprog1415 where id_insert = 23;"
+
+[2015-06-22 20:41:51] string(56) "SELECT id_product FROM product where show_in_reg = 'on';"
+
+[2015-06-22 20:41:51] string(56) "SELECT id_product FROM product where show_in_reg = 'on';"
+
+[2015-06-22 20:41:51] string(58) "SELECT * FROM all8productcumprog1415 where id_insert = 24;"
+
+[2015-06-22 20:41:51] string(58) "SELECT * FROM all8productcumprog1415 where id_insert = 24;"
+
+[2015-06-22 20:41:51] string(56) "SELECT id_product FROM product where show_in_reg = 'on';"
+
+[2015-06-22 20:41:51] string(56) "SELECT id_product FROM product where show_in_reg = 'on';"
+
+[2015-06-22 20:41:51] string(58) "SELECT * FROM all8productcumprog1415 where id_insert = 25;"
+
+[2015-06-22 20:41:51] string(58) "SELECT * FROM all8productcumprog1415 where id_insert = 25;"
+
+[2015-06-22 20:41:51] string(56) "SELECT id_product FROM product where show_in_reg = 'on';"
+
+[2015-06-22 20:41:51] string(56) "SELECT id_product FROM product where show_in_reg = 'on';"
+
+[2015-06-22 20:41:51] string(58) "SELECT * FROM all8productcumprog1415 where id_insert = 26;"
+
+[2015-06-22 20:41:51] string(58) "SELECT * FROM all8productcumprog1415 where id_insert = 26;"
+
+[2015-06-22 20:41:51] string(56) "SELECT id_product FROM product where show_in_reg = 'on';"
+
+[2015-06-22 20:41:51] string(56) "SELECT id_product FROM product where show_in_reg = 'on';"
+
+[2015-06-22 20:41:51] string(58) "SELECT * FROM all8productcumprog1415 where id_insert = 27;"
+
+[2015-06-22 20:41:51] string(58) "SELECT * FROM all8productcumprog1415 where id_insert = 27;"
+
+[2015-06-22 20:41:51] string(56) "SELECT id_product FROM product where show_in_reg = 'on';"
+
+[2015-06-22 20:41:51] string(56) "SELECT id_product FROM product where show_in_reg = 'on';"
+
+[2015-06-22 20:41:51] string(58) "SELECT * FROM all8productcumprog1415 where id_insert = 28;"
+
+[2015-06-22 20:41:51] string(58) "SELECT * FROM all8productcumprog1415 where id_insert = 28;"
+
+[2015-06-22 20:41:51] string(56) "SELECT id_product FROM product where show_in_reg = 'on';"
+
+[2015-06-22 20:41:51] string(56) "SELECT id_product FROM product where show_in_reg = 'on';"
+
+[2015-06-22 20:41:51] string(58) "SELECT * FROM all8productcumprog1415 where id_insert = -1;"
+
+[2015-06-22 20:41:51] string(58) "SELECT * FROM all8productcumprog1415 where id_insert = -1;"
+
+[2015-06-22 20:41:51] string(56) "SELECT id_product FROM product where show_in_reg = 'on';"
+
+[2015-06-22 20:41:51] string(56) "SELECT id_product FROM product where show_in_reg = 'on';"
+
+[2015-06-22 20:41:51] string(58) "SELECT * FROM all8productcumprog1415 where id_insert = -1;"
+
+[2015-06-22 20:41:51] string(58) "SELECT * FROM all8productcumprog1415 where id_insert = -1;"
+
+[2015-06-22 20:41:51] string(56) "SELECT id_product FROM product where show_in_reg = 'on';"
+
+[2015-06-22 20:41:51] string(56) "SELECT id_product FROM product where show_in_reg = 'on';"
+
+[2015-06-22 20:41:51] string(58) "SELECT * FROM all8productcumprog1415 where id_insert = -1;"
+
+[2015-06-22 20:41:51] string(58) "SELECT * FROM all8productcumprog1415 where id_insert = -1;"
+
+[2015-06-22 20:41:51] string(56) "SELECT id_product FROM product where show_in_reg = 'on';"
+
+[2015-06-22 20:41:51] string(56) "SELECT id_product FROM product where show_in_reg = 'on';"
+
+[2015-06-22 20:41:51] string(58) "SELECT * FROM all8productcumprog1415 where id_insert = -1;"
+
+[2015-06-22 20:41:51] string(58) "SELECT * FROM all8productcumprog1415 where id_insert = -1;"
+
+[2015-06-22 20:41:51] string(56) "SELECT id_product FROM product where show_in_reg = 'on';"
+
+[2015-06-22 20:41:51] string(56) "SELECT id_product FROM product where show_in_reg = 'on';"
+
+[2015-06-22 20:41:51] string(58) "SELECT * FROM all8productcumprog1415 where id_insert = -1;"
+
+[2015-06-22 20:41:51] string(58) "SELECT * FROM all8productcumprog1415 where id_insert = -1;"
+
+[2015-06-22 20:41:51] string(56) "SELECT id_product FROM product where show_in_reg = 'on';"
+
+[2015-06-22 20:41:51] string(56) "SELECT id_product FROM product where show_in_reg = 'on';"
+
+[2015-06-22 20:41:51] string(58) "SELECT * FROM all8productcumprog1415 where id_insert = -1;"
+
+[2015-06-22 20:41:51] string(58) "SELECT * FROM all8productcumprog1415 where id_insert = -1;"
+
+[2015-06-22 20:41:51] string(56) "SELECT id_product FROM product where show_in_reg = 'on';"
+
+[2015-06-22 20:41:51] string(56) "SELECT id_product FROM product where show_in_reg = 'on';"
+
+[2015-06-22 20:41:51] string(58) "SELECT * FROM all8productcumprog1415 where id_insert = -1;"
+
+[2015-06-22 20:41:51] string(58) "SELECT * FROM all8productcumprog1415 where id_insert = -1;"
+
+[2015-06-22 20:41:51] string(56) "SELECT id_product FROM product where show_in_reg = 'on';"
+
+[2015-06-22 20:41:51] string(56) "SELECT id_product FROM product where show_in_reg = 'on';"
+
+[2015-06-22 20:41:51] string(58) "SELECT * FROM all8productcumprog1415 where id_insert = -1;"
+
+[2015-06-22 20:41:51] string(58) "SELECT * FROM all8productcumprog1415 where id_insert = -1;"
+
+[2015-06-22 20:41:51] string(56) "SELECT id_product FROM product where show_in_reg = 'on';"
+
+[2015-06-22 20:41:51] string(56) "SELECT id_product FROM product where show_in_reg = 'on';"
+
+[2015-06-22 20:41:51] string(58) "SELECT * FROM all8productcumprog1415 where id_insert = -1;"
+
+[2015-06-22 20:41:51] string(58) "SELECT * FROM all8productcumprog1415 where id_insert = -1;"
+
+[2015-06-22 20:41:51] string(56) "SELECT id_product FROM product where show_in_reg = 'on';"
+
+[2015-06-22 20:41:51] string(56) "SELECT id_product FROM product where show_in_reg = 'on';"
+
+[2015-06-22 20:41:51] string(58) "SELECT * FROM all8productcumprog1415 where id_insert = -1;"
+
+[2015-06-22 20:41:51] string(58) "SELECT * FROM all8productcumprog1415 where id_insert = -1;"
+
+[2015-06-22 20:41:51] string(56) "SELECT id_product FROM product where show_in_reg = 'on';"
+
+[2015-06-22 20:41:51] string(56) "SELECT id_product FROM product where show_in_reg = 'on';"
+
+[2015-06-22 20:41:51] string(58) "SELECT * FROM all8productcumprog1415 where id_insert = -1;"
+
+[2015-06-22 20:41:51] string(58) "SELECT * FROM all8productcumprog1415 where id_insert = -1;"
+
+[2015-06-22 20:41:51] string(56) "SELECT id_product FROM product where show_in_reg = 'on';"
+
+[2015-06-22 20:41:51] string(56) "SELECT id_product FROM product where show_in_reg = 'on';"
+
+[2015-06-22 20:41:51] string(58) "SELECT * FROM all8productcumprog1415 where id_insert = -1;"
+
+[2015-06-22 20:41:51] string(58) "SELECT * FROM all8productcumprog1415 where id_insert = -1;"
+
+[2015-06-22 20:41:51] string(56) "SELECT id_product FROM product where show_in_reg = 'on';"
+
+[2015-06-22 20:41:51] string(56) "SELECT id_product FROM product where show_in_reg = 'on';"
+
+[2015-06-22 20:41:51] string(58) "SELECT * FROM all8productcumprog1415 where id_insert = -1;"
+
+[2015-06-22 20:41:51] string(58) "SELECT * FROM all8productcumprog1415 where id_insert = -1;"
+
+[2015-06-22 20:41:51] string(56) "SELECT id_product FROM product where show_in_reg = 'on';"
+
+[2015-06-22 20:41:51] string(56) "SELECT id_product FROM product where show_in_reg = 'on';"
+
+[2015-06-22 20:41:51] string(58) "SELECT * FROM all8productcumprog1415 where id_insert = -1;"
+
+[2015-06-22 20:41:51] string(58) "SELECT * FROM all8productcumprog1415 where id_insert = -1;"
+
+[2015-06-22 20:41:51] string(56) "SELECT id_product FROM product where show_in_reg = 'on';"
+
+[2015-06-22 20:41:51] string(56) "SELECT id_product FROM product where show_in_reg = 'on';"
+
+[2015-06-22 20:41:51] string(58) "SELECT * FROM all8productcumprog1415 where id_insert = -1;"
+
+[2015-06-22 20:41:51] string(58) "SELECT * FROM all8productcumprog1415 where id_insert = -1;"
+
+[2015-06-22 20:41:51] string(56) "SELECT id_product FROM product where show_in_reg = 'on';"
+
+[2015-06-22 20:41:51] string(56) "SELECT id_product FROM product where show_in_reg = 'on';"
+
+[2015-06-22 20:41:51] string(58) "SELECT * FROM all8productcumprog1415 where id_insert = -1;"
+
+[2015-06-22 20:41:51] string(58) "SELECT * FROM all8productcumprog1415 where id_insert = -1;"
+
+[2015-06-22 20:41:51] string(56) "SELECT id_product FROM product where show_in_reg = 'on';"
+
+[2015-06-22 20:41:51] string(56) "SELECT id_product FROM product where show_in_reg = 'on';"
+
+[2015-06-22 20:41:51] string(58) "SELECT * FROM all8productcumprog1415 where id_insert = -1;"
+
+[2015-06-22 20:41:51] string(58) "SELECT * FROM all8productcumprog1415 where id_insert = -1;"
+
+[2015-06-22 20:41:51] string(56) "SELECT id_product FROM product where show_in_reg = 'on';"
+
+[2015-06-22 20:41:51] string(56) "SELECT id_product FROM product where show_in_reg = 'on';"
+
+[2015-06-22 20:41:51] string(58) "SELECT * FROM all8productcumprog1415 where id_insert = -1;"
+
+[2015-06-22 20:41:51] string(58) "SELECT * FROM all8productcumprog1415 where id_insert = -1;"
+
+[2015-06-22 20:41:51] string(56) "SELECT id_product FROM product where show_in_reg = 'on';"
+
+[2015-06-22 20:41:51] string(56) "SELECT id_product FROM product where show_in_reg = 'on';"
+
+[2015-06-22 20:41:51] string(58) "SELECT * FROM all8productcumprog1415 where id_insert = -1;"
+
+[2015-06-22 20:41:51] string(58) "SELECT * FROM all8productcumprog1415 where id_insert = -1;"
+
+[2015-06-22 20:41:51] string(56) "SELECT id_product FROM product where show_in_reg = 'on';"
+
+[2015-06-22 20:41:51] string(56) "SELECT id_product FROM product where show_in_reg = 'on';"
+
+[2015-06-22 20:41:51] string(58) "SELECT * FROM all8productcumprog1415 where id_insert = -1;"
+
+[2015-06-22 20:41:51] string(58) "SELECT * FROM all8productcumprog1415 where id_insert = -1;"
+
+[2015-06-22 20:41:51] string(56) "SELECT id_product FROM product where show_in_reg = 'on';"
+
+[2015-06-22 20:41:51] string(56) "SELECT id_product FROM product where show_in_reg = 'on';"
+
+[2015-06-22 20:41:51] string(58) "SELECT * FROM all8productcumprog1415 where id_insert = -1;"
+
+[2015-06-22 20:41:51] string(58) "SELECT * FROM all8productcumprog1415 where id_insert = -1;"
+
+[2015-06-22 20:41:51] string(56) "SELECT id_product FROM product where show_in_reg = 'on';"
+
+[2015-06-22 20:41:51] string(56) "SELECT id_product FROM product where show_in_reg = 'on';"
+
+[2015-06-22 20:41:51] string(58) "SELECT * FROM all8productcumprog1415 where id_insert = -1;"
+
+[2015-06-22 20:41:51] string(58) "SELECT * FROM all8productcumprog1415 where id_insert = -1;"
+
+[2015-06-22 20:41:51] string(56) "SELECT id_product FROM product where show_in_reg = 'on';"
+
+[2015-06-22 20:41:51] string(56) "SELECT id_product FROM product where show_in_reg = 'on';"
+
