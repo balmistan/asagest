@@ -62,7 +62,7 @@ $arr_reg_mapping = array("a", "b", "c", "d", "e", "f");
 
 //Il template da utilizzare dipende dal numero di registri e dal numero di pagine di ciascun registro.
 //
-$template = "../template_xls/template_" . $arr_reg_mapping[$total_num_register - 1] . $pagen . ".xls";
+$template = "../template_xls/".$arr_reg_mapping[$total_num_register - 1]."/template_" . $arr_reg_mapping[$total_num_register - 1] . $pagen . ".xls";
 //Creo file excel:
 //echo $template;
 //echo $pagen;
@@ -80,7 +80,7 @@ if (1) {
         // print_r($arr_view[0]);
         //  echo "<br /><br />"; 
     }
-    if (isset($_GET["dwn"]))
+   if (isset($_GET["dwn"]))
         $excel->Output("Allegato_5.xls");
     else {
         $excel->Save("../Personal/Allegato_5.xlsx");
